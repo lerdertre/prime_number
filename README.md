@@ -1,1 +1,1 @@
-about prime number
+about how to calculate prime number
